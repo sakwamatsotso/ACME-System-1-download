@@ -10,11 +10,11 @@ Navigate to the Download Client and Support page via the "User Option" button
 Download the files under Legacy Systems.
 Logout of ACME System 1 and close browser window.
 ## Setup/Installation Requirements
-This is purely for learning purposes and can be accessed at https://github.com/sakwamatsotso/Extract-Outlook-Emails-with-Regex.git. Please feel free to outline and share any area that you may want me to improve on.
+This is purely for learning purposes and can be accessed at https://github.com/sakwamatsotso/ACME-System-1-download.git. Please feel free to outline and share any area that you may want me to improve on.
 ## Known Bugs
 Work in progress, no known bugs as of now.
 ## Technologies Used
-UiPath Studio, Excel, Microsoft Outlook Git and GitHub.
+UiPath Studio, Excel, Chrome Web browser and GitHub.
 ## Support and contact details
 For any comments, suggestions or questions, you may contact me at sakwamatsotso@gmail.com
 ### License
