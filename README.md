@@ -1,5 +1,5 @@
 # ACME-System-1-download
-How to extract-Outlook-Emails-with-Regex
+Automate a project that will navigate to ACME System 1, logs in, navigate to the Download Client and Support page, downloads the documents under legacy sytsem, and finally logs out
 #### Challenge 
 Task to automate a project with several workflow files.
 The project navigates to ACME System 1, logs in, navigate to the Download Client and Support page, downloads the documents under legacy sytsem, and finally logs out.
